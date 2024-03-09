@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="04ac930e-6bd4-44cf-8dfd-72ffb16f069e" name="Changes" comment="" />
+    <list default="true" id="04ac930e-6bd4-44cf-8dfd-72ffb16f069e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/ByteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/FindYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/JavaCheckerBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/JavaFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/SalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/ScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstapp/SwitchDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2cMEgZffEEySBOJUHMtT3QdtnPA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,15 +49,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayDemo.executor": "Run",
+    "Application.ByteTest.executor": "Run",
+    "Application.CalculateMoney.executor": "Run",
+    "Application.FindYears.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.JavaCheckerBoard.executor": "Run",
+    "Application.JavaFactorial.executor": "Run",
+    "Application.SalaryCalculator.executor": "Run",
+    "Application.ScoreCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/IT Year 3 Semester 2/3.OOP Using Java/Java/JavaOOP/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707913161472</updated>
-      <workItem from="1707913162552" duration="3000" />
+      <workItem from="1707913162552" duration="185000" />
+      <workItem from="1707913363769" duration="148000" />
+      <workItem from="1707913523677" duration="99000" />
+      <workItem from="1707913634128" duration="347000" />
+      <workItem from="1707915619299" duration="3732000" />
+      <workItem from="1708428843655" duration="2000" />
+      <workItem from="1708601374085" duration="3747000" />
+      <workItem from="1708607482930" duration="2369000" />
+      <workItem from="1708658671573" duration="1000" />
+      <workItem from="1708877366306" duration="137000" />
+      <workItem from="1708879901781" duration="765000" />
+      <workItem from="1709353674721" duration="12177000" />
+      <workItem from="1709395298924" duration="1113000" />
+      <workItem from="1709396430616" duration="524000" />
+      <workItem from="1709614862851" duration="6000" />
+      <workItem from="1709787116267" duration="7000" />
+      <workItem from="1709809873040" duration="1548000" />
+      <workItem from="1709811465259" duration="3776000" />
+      <workItem from="1709817013410" duration="3208000" />
     </task>
     <servers />
   </component>
@@ -50,7 +117,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>53</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
