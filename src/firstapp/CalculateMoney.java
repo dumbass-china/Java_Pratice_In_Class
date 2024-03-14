@@ -2,6 +2,7 @@ package firstapp;
 
 import java.util.Scanner;
 
+
 public class CalculateMoney {
     public static void main(String[] args) {
         int amount, n100, n50, n20, n10, n5, n1;

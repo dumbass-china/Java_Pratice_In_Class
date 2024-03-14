@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04ac930e-6bd4-44cf-8dfd-72ffb16f069e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/ByteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/FindYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/IfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/JavaCheckerBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/JavaFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/ScoreCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstapp/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/FengShui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstapp/CalculateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstapp/CalculateMoney.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -50,17 +40,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayDemo.executor": "Run",
+    "Application.ArrayListDemo.executor": "Run",
     "Application.ByteTest.executor": "Run",
     "Application.CalculateMoney.executor": "Run",
+    "Application.FengShui.executor": "Run",
+    "Application.Feng_Shui.executor": "Run",
     "Application.FindYears.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.IfDemo.executor": "Run",
     "Application.JavaCheckerBoard.executor": "Run",
     "Application.JavaFactorial.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.ScoreCalculator.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -106,6 +101,13 @@
       <workItem from="1709809873040" duration="1548000" />
       <workItem from="1709811465259" duration="3776000" />
       <workItem from="1709817013410" duration="3208000" />
+      <workItem from="1709956035691" duration="177000" />
+      <workItem from="1710084947491" duration="407000" />
+      <workItem from="1710394706825" duration="1250000" />
+      <workItem from="1710396305190" duration="579000" />
+      <workItem from="1710397141496" duration="1644000" />
+      <workItem from="1710398806074" duration="6305000" />
+      <workItem from="1710406175515" duration="701000" />
     </task>
     <servers />
   </component>

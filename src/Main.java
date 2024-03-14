@@ -187,21 +187,6 @@ public class Main {
             System.out.println(i);
         }*/
 
-//Nested loops = a loop inside a loops
 
-        Scanner scanner = new Scanner(System.in);
-        int rows;
-        int columns;
-        String symbol="";
-
-        System.out.println("Enter # of rows: ");
-        rows = scanner.nextInt();
-        System.out.println("Enter # of columns: ");
-        columns = scanner.nextInt();
-        System.out.println("Enter symbol to use: ");
-
-        for(int i=1; i<=rows; i++){
-
-        }
     }
 }
